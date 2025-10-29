@@ -1,0 +1,9 @@
+venv/
+.DS_Store
+__pycache__/
+*.pyc
+dist/
+build/
+*.egg-info/
+docs/_build/
+.sphinx/
